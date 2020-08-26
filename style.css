@@ -33,7 +33,7 @@
   background: #006400;
 }
 
-.sticky {
+.fixed {
   position: fixed;
   top: 0;
   width: 100%
