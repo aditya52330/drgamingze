@@ -33,3 +33,9 @@
   background: #006400;
 }
 
+.fixed {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
