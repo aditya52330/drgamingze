@@ -45,3 +45,22 @@
 .sticky + .content {
   padding-top: 102px;
 }
+
+@-ms-viewport {
+  width: device-width ;
+    zoom: 1.0 ;
+}
+
+@media not (max-width: 1024px) {
+    .yep{
+        width 100%;
+        text-align: center; 
+    }
+    
+    .aditya{
+        padding: 2px;
+    }
+    #somethingorother {
+    width: 1023px ;
+  }
+}
